@@ -28,7 +28,9 @@ Welcome! This README contains valuable resources for preparing for competitive p
 * []()
 
 ### courses
-* Advanced Algorithm and DataStructure (quera) - [Costly](https://quera.org/college/landpage/3016/data-structures-and-algorithmic-thinking)
+* الگوریتم پیشرفته و ساختمان داده (quera) - [دارای هزینه](https://quera.org/college/landpage/3016/data-structures-and-algorithmic-thinking)
+* المپیاد کامپیوتر مکتبخونه [رایگان](https://maktabkhooneh.org/learn/computer/)
+* المپیاد ریاضی مکتبخونه [رایگان](https://maktabkhooneh.org/learn/olympic-math/)
 
 ### related links
 * []()
