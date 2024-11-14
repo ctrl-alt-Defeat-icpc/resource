@@ -25,9 +25,11 @@ Welcome! This README contains valuable resources for preparing for competitive p
 * [CodeChef](https://www.codechef.com/)
 
 ### books
-* []()
+* [competetive programming handbook](https://github.com/ctrl-alt-Defeat-icpc/resource/releases/download/dl/cp-handbook.pdf)
+* [introduction-to-the-USA-computing-olympiad](https://github.com/ctrl-alt-Defeat-icpc/resource/releases/download/dl/introduction-to-the-USA-computing-olympiad.pdf)
 
 ### courses
+* [ITMO course in codeforces](https://codeforces.com/edu/course/2)
 * الگوریتم پیشرفته و ساختمان داده (quera) - [دارای هزینه](https://quera.org/college/landpage/3016/data-structures-and-algorithmic-thinking)
 * المپیاد کامپیوتر مکتبخونه [رایگان](https://maktabkhooneh.org/learn/computer/)
 * المپیاد ریاضی مکتبخونه [رایگان](https://maktabkhooneh.org/learn/olympic-math/)
