@@ -27,6 +27,7 @@ Welcome! This README contains valuable resources for preparing for competitive p
 ### books
 * [competetive programming handbook](https://github.com/ctrl-alt-Defeat-icpc/resource/releases/download/dl/cp-handbook.pdf)
 * [introduction-to-the-USA-computing-olympiad](https://github.com/ctrl-alt-Defeat-icpc/resource/releases/download/dl/introduction-to-the-USA-computing-olympiad.pdf)
+* some algorithm book (clrs, grokking algorithms, Deitel & Deitel) [link](https://github.com/EnAnsari/algorithm-hsu#%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A8%D8%A7%DA%A9%D8%B3-%DA%A9%D8%AA%D8%A7%D8%A8)
 
 ### courses
 * [ITMO course in codeforces](https://codeforces.com/edu/course/2)
