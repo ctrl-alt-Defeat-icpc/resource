@@ -34,6 +34,12 @@ Welcome! This README contains valuable resources for preparing for competitive p
 * الگوریتم پیشرفته و ساختمان داده (quera) - [دارای هزینه](https://quera.org/college/landpage/3016/data-structures-and-algorithmic-thinking)
 * المپیاد کامپیوتر مکتبخونه [رایگان](https://maktabkhooneh.org/learn/computer/)
 * المپیاد ریاضی مکتبخونه [رایگان](https://maktabkhooneh.org/learn/olympic-math/)
+  
+### Telegram channels
+* (Unicorn) [فایل‌های تک شاخ (کتگوری شده)](https://t.me/OlyTakShakh_gp)
+* (Unicorn) [کانال اصلی تک شاخ](https://t.me/OlyTakShakh)
+* (Unicorn) [دوره گراف تک شاخ](https://t.me/OlyTakShakhGraph)
+* (Unicorn) [آپارات تک شاخ](https://www.aparat.com/OlyTakShakh)
 
 ### related links
 * []()
