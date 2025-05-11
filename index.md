@@ -3,8 +3,6 @@ layout: default
 title: Resources
 ---
 
-# Resources
-
 Welcome! This README contains valuable resources for preparing for competitive programming (cp), including links to online platforms, tutorials, and recommended books.
 
 ### Other Resource Providers
