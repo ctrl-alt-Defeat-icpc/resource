@@ -1,2 +1,9 @@
-title: CP resources
+title: Competitive Programming Resources
+author: A group of competitive programming enthusiasts
+description: A curated list of resources for preparing for competitive programming.
 theme: minima
+
+minima:
+  social_links:
+    github: ctrl-alt-defeat-icpc
+    website: https://ctrl-alt-defeat-icpc.github.io
