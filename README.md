@@ -17,6 +17,7 @@ Welcome! This README contains valuable resources for preparing for competitive p
 * [wiki icpc iran](https://wiki.icpc.ir/)
 * [icpc blog iran](https://icpc.blog.ir/)
 * [cp-algorithms](https://cp-algorithms.com/)
+* [icpc ninja](https://icpc.ninja/)
 
 ### online Platforms
 * [Codeforces](https://codeforces.com/)
@@ -34,6 +35,7 @@ Welcome! This README contains valuable resources for preparing for competitive p
 * الگوریتم پیشرفته و ساختمان داده (quera) - [دارای هزینه](https://quera.org/college/landpage/3016/data-structures-and-algorithmic-thinking)
 * المپیاد کامپیوتر مکتبخونه [رایگان](https://maktabkhooneh.org/learn/computer/)
 * المپیاد ریاضی مکتبخونه [رایگان](https://maktabkhooneh.org/learn/olympic-math/)
+* The Bible of Competitive Programming & Coding Interviews ([free](https://downloadly.ir/elearning/video-tutorials/the-bible-of-competitive-programming-coding-interviews-2/)) ([original](https://www.udemy.com/course/the-bible-of-algorithms-and-interview-questions/?couponCode=LEARNNOWPLANS))
   
 ### Telegram channels
 * (Unicorn) [فایل‌های تک شاخ (کتگوری شده)](https://t.me/OlyTakShakh_gp)
