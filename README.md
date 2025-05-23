@@ -1,3 +1,5 @@
+###### This file is always more up-to-date than the website!
+
 # Resouces
 
 Welcome! This README contains valuable resources for preparing for competitive programming (cp), including links to online platforms, tutorials, and recommended books.
